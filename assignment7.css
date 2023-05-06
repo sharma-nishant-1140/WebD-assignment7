@@ -1,0 +1,13 @@
+.container{
+    background-image: url(duck.gif);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#click-button{
+    margin-top: 430px;
+}
